@@ -10,8 +10,8 @@
 ! Syntax: AdBlock
 ! Number of entries: 173132
 !
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
+||/pagead.js$domain=d3ward.github.io^
+||/widget/ads.^
 ||0.org^
 ||0.to^
 ||0--4.com^
