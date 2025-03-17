@@ -10,6 +10,7 @@
 ! Syntax: AdBlock
 ! Number of entries: 173132
 !
+||widgets.pinterest.com^
 ||ads30.adcolony.com^
 ||adc3-launch.adcolony.com^
 ||events3alt.adcolony.com^
